@@ -1,1 +1,11 @@
 /** Your theme modifications here **/
+
+.navbar-brand h1 {
+  font-family: 'La Belle Aurore', cursive;
+  padding-top: .3em;
+  margin: auto;
+}
+
+html, body, p, .navbar {
+  font-family: 'Open Sans', sans-serif;
+}
